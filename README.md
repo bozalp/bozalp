@@ -3,8 +3,8 @@
 
 <h4 align="left">Connect with me:</h4>
 <p align="center">
+  <a href="https://www.linkedin.com/in/batuhan-ozalp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50" width="50" /></a>
 <a href="https://twitter.com/batuhan__ozalp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="50" width="50" /></a>
-<a href="https://www.linkedin.com/in/batuhan-ozalp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50" width="50" /></a>
 <a href="https://assetstore.unity.com/publishers/37001" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="https://assetstore.unity.com/publishers/37001" height="50" width="50" />&nbsp;&nbsp;Asset Store</a>
 <a href="https://www.youtube.com/channel/UC1FQhiWEgzRlp5oy0eDrbWw/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc1fqhiwegzrlp5oy0edrbww/videos" height="50" width="50" /></a>
 </p>
