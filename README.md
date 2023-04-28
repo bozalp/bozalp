@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋🏽, I'm Batuhan</h2>
-<h4 align="center">I'm Game and React Native developer from Turkey</h4>
+<h4 align="center">I'm Game and React-React Native developer from Turkey</h4>
 
 <h4 align="left">Connect with me:</h4>
 <p align="center">
