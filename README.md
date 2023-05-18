@@ -1,6 +1,10 @@
 <h2 align="center">Hi 👋🏽, I'm Batuhan</h2>
 <h4 align="center">I'm Game and React-React Native developer from Turkey</h4>
-
+<div align="center">
+<h2><a href="https://sites.google.com/view/batuhanozalp/ana-sayfa" style="color:red;">~ Check out my games ~</a></h2>
+</div><br>
+<div>
+  </div>
 <h4 align="left">Connect with me:</h4>
 <p align="center">
   <a href="https://www.linkedin.com/in/batuhan-ozalp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50" width="50" /></a>
@@ -10,10 +14,6 @@
 </p>
 
 <div align="center">
-<br>
-<a href="https://sites.google.com/view/batuhanozalp/ana-sayfa" style="color:red;">Check out my games</a>
-</div><br>
-<div>
 <h4 align="left">Languages and Tools:</h4>
 <p align="center">
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/> </a>
