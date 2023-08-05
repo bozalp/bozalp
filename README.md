@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋🏽, I'm Batuhan</h2>
-<h4 align="center">I'm Game and React-React Native developer from Turkey</h4>
+<h4 align="center">JS - ex Game Devç</h4>
 <div align="center">
 <h2><a href="https://sites.google.com/view/batuhanozalp/ana-sayfa" style="color:red;">~ Check out my games ~</a></h2>
 </div><br>
