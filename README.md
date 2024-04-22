@@ -2,7 +2,7 @@
 <h4 align="center">Full Stack Dev. Typescript - .Net - ex Game Dev.</h4>
 <div align="center">
 <h4><a href="https://sites.google.com/view/batuhanozalp/ana-sayfa" style="color:red;">~ Check out my games ~</a></h4>
-</div><br>
+</div>
 
 <h4 align="left">Connect with me:</h4>
 <div align="center">
@@ -15,3 +15,4 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=typescript,javascript,angular,react,dotnet,cs,mongodb,unity,blender,ai" />
 </div>
+</br>
